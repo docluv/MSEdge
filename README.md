@@ -1,3 +1,5 @@
+You can read my article on the [MS Edge Chromium update](https://love2dev.com/blog/project-anaheim/) to get my views.
+
 # Microsoft Edge and Chromium Open Source: Our Intent
 Authors: Microsoft Edge Team  
 Last Updated: 2018-12-06
